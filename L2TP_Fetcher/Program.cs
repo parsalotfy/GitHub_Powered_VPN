@@ -50,7 +50,7 @@ namespace L2TP_Fetcher
 
             Console.WriteLine("Saving...");
 
-            System.IO.File.WriteAllText(@"../../../L2TP_List.json", vpns_json);
+            System.IO.File.WriteAllText(@"../L2TP_List.json", vpns_json);
 
         }
 
