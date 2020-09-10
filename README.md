@@ -4,7 +4,9 @@ This repository fetchs list of L2TP vpn's once per day from FreeVPN4You site aut
 and then saves that list in a json file in the repository.
 
 Username : vpn
+
 Password : vpn
+
 Preshared Key : vpn
 
 Can someone create a mobile or pc client for this repository ?
