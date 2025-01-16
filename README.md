@@ -1,3 +1,5 @@
+# This project is DISABLED.
+
 # GitHub_Powered_VPN
 
 This repository fetchs list of L2TP vpn's once per day from FreeVPN4You site automatically (using github actions)
